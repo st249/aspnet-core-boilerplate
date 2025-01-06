@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<PackageId>CompanyName.ProjectName.Contracts</PackageId>
+		<Authors>CompanyName Back-end Developers Team</Authors>
+		<Company>CompanyName</Company>
+		<PackageTags>CompanyName</PackageTags>
+		<Description>
+			This is contracts for ProjectName
+		</Description>
+		<PackageVersion>1.0.0</PackageVersion>
+	</PropertyGroup>
+
+</Project>
+
+
