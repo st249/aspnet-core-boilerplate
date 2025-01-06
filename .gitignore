@@ -117,27 +117,7 @@ Backup*/
 UpgradeLog*.XML
 src/.vs/config/applicationhost.config
 
-src/BookHouse.BCS.Web.Host/wwwroot/Temp/Downloads
-src/BookHouse.BCS.Web.Host/dist
-src/BookHouse.BCS.Web.Host/publish
-src/BookHouse.BCS.Web.Mvc/wwwroot/Temp/Downloads
-src/BookHouse.BCS.Web.Mvc/Properties/PublishProfiles
-src/BookHouse.BCS.Web.Mvc/node_modules
-src/BookHouse.BCS.Web.Mvc/wwwroot/lib
-src/BookHouse.BCS.Web.Mvc/wwwroot/dist
-src/BookHouse.BCS.Web.Mvc/wwwroot/view-resources/Views/_Bundles
-src/BookHouse.BCS.Web.Mvc/wwwroot/view-resources/Areas/AppAreaName/Views/_Bundles
-src/BookHouse.BCS.Web.Mvc/wwwroot/view-resources/**/*.min.*
-src/BookHouse.BCS.Web.Mvc/wwwroot/Common/**/*.min.*
-src/BookHouse.BCS.Web.Mvc/wwwroot/metronic/**/*.min.*
-src/BookHouse.BCS.Web.Mvc/package-lock.json
 
-src/BookHouse.BCS.Web.Public/wwwroot/lib
-src/BookHouse.BCS.Web.Public/wwwroot/dist
-src/BookHouse.BCS.Web.Public/wwwroot/Common/_Bundles
-src/BookHouse.BCS.Web.Public/wwwroot/view-resources/Views/_Bundles
-src/BookHouse.BCS.Web.Public/wwwroot/view-resources/**/*.min.*
-src/BookHouse.BCS.Web.Public/wwwroot/Common/**/*.min.*
 src/BookHouse.BCS.Web.Public/node_modules
 /src/BookHouse.BCS.Web.Public/node_modules
 
